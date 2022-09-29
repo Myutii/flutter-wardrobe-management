@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319499352433",
+    "project_id": "wardrobe-management-lylprl",
+    "storage_bucket": "wardrobe-management-lylprl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319499352433:android:88a1a603a27556c2a51ed0",
+        "android_client_info": {
+          "package_name": "com.example.wardrobe_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319499352433-i1l7jb571jfqdemgi1n3raau1nuubvrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmW_Y4m2psiQAYXlxuq2D1cTyaoKG7qFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319499352433-i1l7jb571jfqdemgi1n3raau1nuubvrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
